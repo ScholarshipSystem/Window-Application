@@ -1,0 +1,20 @@
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\bin\Debug\net8.0-windows\MAC110 Scholarship Program.exe
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\bin\Debug\net8.0-windows\MAC110 Scholarship Program.deps.json
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\bin\Debug\net8.0-windows\MAC110 Scholarship Program.runtimeconfig.json
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\bin\Debug\net8.0-windows\MAC110 Scholarship Program.dll
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\bin\Debug\net8.0-windows\MAC110 Scholarship Program.pdb
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110_Scholarship_Program.HomePage.resources
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110_Scholarship_Program.Properties.Resources.resources
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.csproj.GenerateResource.cache
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.AssemblyInfoInputs.cache
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.AssemblyInfo.cs
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.csproj.CoreCompileInputs.cache
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.dll
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\refint\MAC110 Scholarship Program.dll
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.pdb
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110 Scholarship Program.genruntimeconfig.cache
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\ref\MAC110 Scholarship Program.dll
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110_Scholarship_Program.Form2.resources
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110_Scholarship_Program.UserControls.UC_Home.resources
+C:\Users\Jinang Mehta\source\repos\MAC110 Scholarship Program\MAC110 Scholarship Program\obj\Debug\net8.0-windows\MAC110_Scholarship_Program.Form3.resources
